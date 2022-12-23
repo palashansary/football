@@ -14,7 +14,7 @@ body::before{
     top:0;
     left: 0;
     width: 100%;
-    min-height: 260Vh;
+    min-height: 200Vh;
     /* background: url('bg1.jpg') no-repeat center center/cover; */
     background-color: rgb(1, 1, 29);
     z-index: -1;
@@ -58,12 +58,12 @@ h4{
     background-image:linear-gradient(#7f7fd5 ,#86a8e7,#91eae4);
     border-radius: 8px;
     box-shadow: 3px 3px 4px grey;
-    transition: 0.3s ease-in;
+    transition: 0.4s ease-out;
     
 }
 
 .item:hover{
-    transform: scale(1.15);
+    transform: scale(1.2);
 }
 
 button{
