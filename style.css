@@ -96,6 +96,11 @@ button{
         height: 180px;
         border-radius: 8px 8px 0px 0px;
     }
+    
+      h4{
+        display: none;
+    }
+}
 }
 
 
